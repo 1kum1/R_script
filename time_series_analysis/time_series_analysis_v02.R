@@ -1,7 +1,7 @@
 # 時系列分析用
 # 整理できたらgithubに上げておく
 
-setwd("/Users/ikumi/Dropbox/R_script/github/time_series_analysis")
+setwd("./github/time_series_analysis")
 
 
 # 参考 ----------------------------------------------------------------------
